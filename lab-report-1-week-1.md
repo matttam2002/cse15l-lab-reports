@@ -7,6 +7,10 @@
 - Remotely Connecting
 Here is my output in VS-code
 
+![Image](https://matttam2002.github.io/cse15l-lab-reports/Screenshot.1.png)
+
+- Trying Some Commands
+
 
 
 
