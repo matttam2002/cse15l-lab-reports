@@ -54,3 +54,37 @@ class SearchEngine {
 }
 ```
 - Using add
+
+![Image](https://matttam2002.github.io/cse15l-lab-reports/lab3_2.png)
+~ The method I use is call handleRequest(URI url) 
+
+~ When the program run the method, it recognize the path of the url is add. And it split the argument by =. So the arguments value is 0 which is "s" and 1 which is "iphone". 
+
+~ If I change the value, the program won't recognize which input should be added to the list. 
+
+- showing the URL in the browser 
+![Image](https://matttam2002.github.io/cse15l-lab-reports/lab_3_1.png)
+~ The method I use is call handleRequest(URI url) 
+
+~ When the program run the method, it recognize the path of the url is add. And it split the argument by =. So the arguments value is empty. 
+
+~ If I change the value, the program won't pass all the if instruction, so it will return "404 Not Found!". 
+
+
+- response on the page.
+
+![Image](https://matttam2002.github.io/cse15l-lab-reports/lab3_5.png)
+
+~ The method I use is call handleRequest(URI url) 
+
+~ When the program run the method, it recognize the path of the url is search. And it split the argument by =. So the arguments value is 0 which is "s" and 1 which is "one". 
+
+~ If I change the value, the program will end up not knowing which value should input to the loop which determine which element in list contain the input string. 
+
+
+
+
+
+
+
+
