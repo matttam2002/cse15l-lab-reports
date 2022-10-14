@@ -31,9 +31,12 @@ cs15lfa22im
 /home/linux/ieng6/cs15lfa22/cs15lfa22im
 
 - Setting an SSH Key
-
+![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshotforssh.png)
+![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshotforssh2.png)
 
 - Optimizing Remote Running
+![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshotforssh3.png)
+![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshotforssh4.png)
 
 
 
