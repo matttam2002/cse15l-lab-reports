@@ -98,11 +98,10 @@ INSIDE THE FOUR FLIGHTS
 ```
 For "grep -v", it print out all the lines that doesn't contain "a" in 911report/chapter-1.txt file.
 
-3.
+3. 
 
-```
-[cs15lfa22im@ieng6-202]:technical:216$ grep ^B 911report/chapter-1.txt
-
+``` 
+[cs15lfa22im@ieng6-202]:technical:268$ grep ^B 911report/chapter-1.txt
 Boarding the Flights
 ```
 
