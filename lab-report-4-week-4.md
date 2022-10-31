@@ -100,10 +100,6 @@ For "grep -v", it print out all the lines that doesn't contain "a" in 911report/
 
 3. 
 
-``` 
-[cs15lfa22im@ieng6-202]:technical:268$ grep ^B 911report/chapter-1.txt
-Boarding the Flights
-```
 
 
 For "grep ^B", it print out all the lines that start with the character B.
