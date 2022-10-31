@@ -88,18 +88,16 @@ For "less +10", it print out the content start from line 10.
 For "grep -c", it searches all the files in the directory 911report, and find each files and count many times does "Boston" appear. 
 
 2. 
-```
-[cs15lfa22im@ieng6-202]:technical:213$ grep -v "a" 911report/chapter-1.txt
-
-"WE HAVE SOME PLANES"
-
-INSIDE THE FOUR FLIGHTS
-
-```
-For "grep -v", it print out all the lines that doesn't contain "a" in 911report/chapter-1.txt file.
-
-3. 
 ![Image](https://matttam2002.github.io/cse15l-lab-reports/Screenshot%20lab4_4.png)
 
 
+
+For "grep -v", it print out all the lines that doesn't contain "a" in 911report/chapter-1.txt file.
+
+3. 
+
+![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshot%20lab4_5.png)
+
+
 For "grep ^B", it print out all the lines that start with the character B.
+
