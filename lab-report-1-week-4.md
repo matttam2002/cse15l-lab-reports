@@ -41,7 +41,7 @@ For "find -empty", it finds file that are empty .
 ``` 
 [cs15lfa22im@ieng6-202]:technical:239$ less -p "Boston" ./911report/chapter-1.txt
 ```
-![Image](https://matttam2002.github.io/cse15l-lab-reports/screenshotforssh.png)
+![Image](https://matttam2002.github.io/cse15l-lab-reports/Screenshot%20lab4_1.png)
 
 For "less -p", it searches the world "boston" in the file ./911report/chapter-1.txt and highlight the word "boston" when printing out the content. 
 
@@ -49,6 +49,7 @@ For "less -p", it searches the world "boston" in the file ./911report/chapter-1.
 ``` 
 [cs15lfa22im@ieng6-202]:technical:241$ less -N ./911report/chapter-1.txt
 ```
+![Image](https://matttam2002.github.io/cse15l-lab-reports/Screenshot%20lab4_2.png)
 
 For "less -N", it provide the line number when printing out the content.
 
