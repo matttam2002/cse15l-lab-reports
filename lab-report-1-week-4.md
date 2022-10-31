@@ -91,21 +91,20 @@ For "grep -c", it searches all the files in the directory 911report, and find ea
 ```
 [cs15lfa22im@ieng6-202]:technical:213$ grep -v "a" 911report/chapter-1.txt
 
-
-
 "WE HAVE SOME PLANES"
 
-
-
 INSIDE THE FOUR FLIGHTS
+
 ```
 For "grep -v", it print out all the lines that doesn't contain "a" in 911report/chapter-1.txt file. 
 
-3. 
+3.
+
 ```
 [cs15lfa22im@ieng6-202]:technical:216$ grep ^B 911report/chapter-1.txt
 
 Boarding the Flights
 ```
+
 For "grep ^B", it print out all the lines that start with the character B.
 
