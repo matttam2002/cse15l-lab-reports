@@ -99,7 +99,7 @@ INSIDE THE FOUR FLIGHTS
 For "grep -v", it print out all the lines that doesn't contain "a" in 911report/chapter-1.txt file.
 
 3. 
-
+![Image](https://matttam2002.github.io/cse15l-lab-reports/Screenshot%20lab4_4.png)
 
 
 For "grep ^B", it print out all the lines that start with the character B.
