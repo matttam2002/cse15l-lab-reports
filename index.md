@@ -5,4 +5,4 @@
 
 [Lab Report 3](https://matttam2002.github.io/cse15l-lab-reports/lab-report-1-week-3)
 
-[Lab Report 4](https://matttam2002.github.io/cse15l-lab-reports/lab-report-1-week-4)
+[Lab Report 4](https://matttam2002.github.io/cse15l-lab-reports/)

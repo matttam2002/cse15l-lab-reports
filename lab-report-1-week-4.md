@@ -101,11 +101,11 @@ INSIDE THE FOUR FLIGHTS
 3.
 
 
- For "grep ^B", it print out all the lines that start with the character B.
+
 
  ```
 [cs15lfa22im@ieng6-202]:technical:216$ grep ^B 911report/chapter-1.txt
 
 Boarding the Flights
 ```
-
+ For "grep ^B", it print out all the lines that start with the character B.
